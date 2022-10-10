@@ -11,3 +11,4 @@ torch>=1.9.1
 torchvision
 timm
 einops
+ninja
